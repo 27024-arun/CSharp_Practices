@@ -1,0 +1,14 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\FileHandLine(CSV)\bin\Debug\net8.0\FileHandling(CSV).exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\FileHandLine(CSV)\bin\Debug\net8.0\FileHandling(CSV).deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\FileHandLine(CSV)\bin\Debug\net8.0\FileHandling(CSV).runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\FileHandLine(CSV)\bin\Debug\net8.0\FileHandling(CSV).dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\FileHandLine(CSV)\bin\Debug\net8.0\FileHandling(CSV).pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\FileHandLine(CSV)\obj\Debug\net8.0\FileHandling(CSV).GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\FileHandLine(CSV)\obj\Debug\net8.0\FileHandling(CSV).AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\FileHandLine(CSV)\obj\Debug\net8.0\FileHandling(CSV).AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\FileHandLine(CSV)\obj\Debug\net8.0\FileHandling(CSV).csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\FileHandLine(CSV)\obj\Debug\net8.0\FileHandling(CSV).dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\FileHandLine(CSV)\obj\Debug\net8.0\refint\FileHandling(CSV).dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\FileHandLine(CSV)\obj\Debug\net8.0\FileHandling(CSV).pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\FileHandLine(CSV)\obj\Debug\net8.0\FileHandling(CSV).genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\FileHandLine(CSV)\obj\Debug\net8.0\ref\FileHandling(CSV).dll

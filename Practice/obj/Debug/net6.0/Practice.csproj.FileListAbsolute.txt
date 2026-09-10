@@ -1,0 +1,14 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\Practice\bin\Debug\net6.0\Practice.exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\Practice\bin\Debug\net6.0\Practice.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\Practice\bin\Debug\net6.0\Practice.runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\Practice\bin\Debug\net6.0\Practice.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\Practice\bin\Debug\net6.0\Practice.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\Practice\obj\Debug\net6.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\Practice\obj\Debug\net6.0\Practice.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\Practice\obj\Debug\net6.0\Practice.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\Practice\obj\Debug\net6.0\Practice.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\Practice\obj\Debug\net6.0\Practice.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\Practice\obj\Debug\net6.0\refint\Practice.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\Practice\obj\Debug\net6.0\Practice.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\Practice\obj\Debug\net6.0\Practice.genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\Practice\obj\Debug\net6.0\ref\Practice.dll

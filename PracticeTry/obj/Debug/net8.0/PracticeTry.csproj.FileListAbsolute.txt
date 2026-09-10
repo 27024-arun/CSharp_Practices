@@ -1,0 +1,14 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\bin\Debug\net8.0\PracticeTry.exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\bin\Debug\net8.0\PracticeTry.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\bin\Debug\net8.0\PracticeTry.runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\bin\Debug\net8.0\PracticeTry.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\bin\Debug\net8.0\PracticeTry.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\obj\Debug\net8.0\PracticeTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\obj\Debug\net8.0\PracticeTry.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\obj\Debug\net8.0\PracticeTry.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\obj\Debug\net8.0\PracticeTry.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\obj\Debug\net8.0\PracticeTry.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\obj\Debug\net8.0\refint\PracticeTry.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\obj\Debug\net8.0\PracticeTry.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\obj\Debug\net8.0\PracticeTry.genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\obj\Debug\net8.0\ref\PracticeTry.dll

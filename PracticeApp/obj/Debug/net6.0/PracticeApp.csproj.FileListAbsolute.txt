@@ -1,0 +1,14 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\bin\Debug\net6.0\PracticeApp.exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\bin\Debug\net6.0\PracticeApp.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\bin\Debug\net6.0\PracticeApp.runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\bin\Debug\net6.0\PracticeApp.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\bin\Debug\net6.0\PracticeApp.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\obj\Debug\net6.0\PracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\obj\Debug\net6.0\PracticeApp.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\obj\Debug\net6.0\PracticeApp.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\obj\Debug\net6.0\PracticeApp.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\obj\Debug\net6.0\PracticeApp.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\obj\Debug\net6.0\refint\PracticeApp.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\obj\Debug\net6.0\PracticeApp.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\obj\Debug\net6.0\PracticeApp.genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\obj\Debug\net6.0\ref\PracticeApp.dll

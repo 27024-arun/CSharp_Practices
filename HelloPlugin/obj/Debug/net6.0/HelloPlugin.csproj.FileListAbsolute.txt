@@ -1,0 +1,15 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\HelloPlugin\bin\Debug\net6.0\HelloPlugin.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\HelloPlugin\bin\Debug\net6.0\HelloPlugin.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\HelloPlugin\bin\Debug\net6.0\HelloPlugin.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\HelloPlugin\bin\Debug\net6.0\PluginInterface.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\HelloPlugin\bin\Debug\net6.0\PluginInterface.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\HelloPlugin\obj\Debug\net6.0\HelloPlugin.csproj.AssemblyReference.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\HelloPlugin\obj\Debug\net6.0\HelloPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\HelloPlugin\obj\Debug\net6.0\HelloPlugin.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\HelloPlugin\obj\Debug\net6.0\HelloPlugin.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\HelloPlugin\obj\Debug\net6.0\HelloPlugin.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\HelloPlugin\obj\Debug\net6.0\HelloPlu.CAA5765D.Up2Date
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\HelloPlugin\obj\Debug\net6.0\HelloPlugin.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\HelloPlugin\obj\Debug\net6.0\refint\HelloPlugin.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\HelloPlugin\obj\Debug\net6.0\HelloPlugin.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\HelloPlugin\obj\Debug\net6.0\ref\HelloPlugin.dll

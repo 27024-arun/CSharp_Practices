@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "F# Sample Proj/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/F# Sample Proj.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/F# Sample Proj.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "F# Sample Proj/1.0.0": {
+      "type": "project",
+      "path": "../F# Sample Proj/F# Sample Proj.fsproj",
+      "msbuildProject": "../F# Sample Proj/F# Sample Proj.fsproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "F# Sample Proj >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Arun.Sekar\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\C# Assignments\\Sessions\\AssignmentBasicsSolution\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\C# Assignments\\Sessions\\AssignmentBasicsSolution\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\Arun.Sekar\\.nuget\\packages\\",
+      "outputPath": "C:\\C# Assignments\\Sessions\\AssignmentBasicsSolution\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Arun.Sekar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\C# Assignments\\Sessions\\AssignmentBasicsSolution\\F# Sample Proj\\F# Sample Proj.fsproj": {
+              "projectPath": "C:\\C# Assignments\\Sessions\\AssignmentBasicsSolution\\F# Sample Proj\\F# Sample Proj.fsproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project F# Sample Proj is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project F# Sample Proj supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "F# Sample Proj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

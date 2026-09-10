@@ -1,0 +1,14 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadProcessor\bin\Debug\net6.0\ThreadProcessor.exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadProcessor\bin\Debug\net6.0\ThreadProcessor.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadProcessor\bin\Debug\net6.0\ThreadProcessor.runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadProcessor\bin\Debug\net6.0\ThreadProcessor.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadProcessor\bin\Debug\net6.0\ThreadProcessor.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadProcessor\obj\Debug\net6.0\ThreadProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadProcessor\obj\Debug\net6.0\ThreadProcessor.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadProcessor\obj\Debug\net6.0\ThreadProcessor.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadProcessor\obj\Debug\net6.0\ThreadProcessor.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadProcessor\obj\Debug\net6.0\ThreadProcessor.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadProcessor\obj\Debug\net6.0\refint\ThreadProcessor.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadProcessor\obj\Debug\net6.0\ThreadProcessor.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadProcessor\obj\Debug\net6.0\ThreadProcessor.genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadProcessor\obj\Debug\net6.0\ref\ThreadProcessor.dll

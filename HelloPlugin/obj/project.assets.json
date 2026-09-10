@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "PluginInterface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PluginInterface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PluginInterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PluginInterface/1.0.0": {
+      "type": "project",
+      "path": "../PluginInterface/PluginInterface.csproj",
+      "msbuildProject": "../PluginInterface/PluginInterface.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "PluginInterface >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Arun.Sekar\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\C# Assignments\\Sessions\\AssignmentBasicsSolution\\HelloPlugin\\HelloPlugin.csproj",
+      "projectName": "HelloPlugin",
+      "projectPath": "C:\\C# Assignments\\Sessions\\AssignmentBasicsSolution\\HelloPlugin\\HelloPlugin.csproj",
+      "packagesPath": "C:\\Users\\Arun.Sekar\\.nuget\\packages\\",
+      "outputPath": "C:\\C# Assignments\\Sessions\\AssignmentBasicsSolution\\HelloPlugin\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Arun.Sekar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\C# Assignments\\Sessions\\AssignmentBasicsSolution\\PluginInterface\\PluginInterface.csproj": {
+              "projectPath": "C:\\C# Assignments\\Sessions\\AssignmentBasicsSolution\\PluginInterface\\PluginInterface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

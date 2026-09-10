@@ -1,0 +1,11 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PluginInterface\bin\Debug\net6.0\PluginInterface.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PluginInterface\bin\Debug\net6.0\PluginInterface.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PluginInterface\bin\Debug\net6.0\PluginInterface.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PluginInterface\obj\Debug\net6.0\PluginInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PluginInterface\obj\Debug\net6.0\PluginInterface.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PluginInterface\obj\Debug\net6.0\PluginInterface.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PluginInterface\obj\Debug\net6.0\PluginInterface.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PluginInterface\obj\Debug\net6.0\PluginInterface.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PluginInterface\obj\Debug\net6.0\refint\PluginInterface.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PluginInterface\obj\Debug\net6.0\PluginInterface.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PluginInterface\obj\Debug\net6.0\ref\PluginInterface.dll

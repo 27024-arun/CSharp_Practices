@@ -1,0 +1,35 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\F# Sample Proj.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\F# Sample Proj.runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\F# Sample Proj.exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\C# Proj (F# Ref).exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\C# Proj (F# Ref).deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\C# Proj (F# Ref).runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\C# Proj (F# Ref).dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\C# Proj (F# Ref).pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\FSharp.Core.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\F# Sample Proj.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\bin\Debug\net8.0\F# Sample Proj.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\obj\Debug\net8.0\C# Proj (F# Ref).csproj.AssemblyReference.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\obj\Debug\net8.0\C# Proj (F# Ref).GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\obj\Debug\net8.0\C# Proj (F# Ref).AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\obj\Debug\net8.0\C# Proj (F# Ref).AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\obj\Debug\net8.0\C# Proj (F# Ref).csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\obj\Debug\net8.0\C# Proj .FC9D2BAD.Up2Date
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\obj\Debug\net8.0\C# Proj (F# Ref).dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\obj\Debug\net8.0\refint\C# Proj (F# Ref).dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\obj\Debug\net8.0\C# Proj (F# Ref).pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\obj\Debug\net8.0\C# Proj (F# Ref).genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\SampleC#Project\obj\Debug\net8.0\ref\C# Proj (F# Ref).dll

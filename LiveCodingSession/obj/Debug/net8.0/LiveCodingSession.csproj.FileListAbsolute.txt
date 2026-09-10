@@ -1,0 +1,14 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\LiveCodingSession\obj\Debug\net8.0\LiveCodingSession.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\LiveCodingSession\obj\Debug\net8.0\LiveCodingSession.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\LiveCodingSession\obj\Debug\net8.0\LiveCodingSession.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\LiveCodingSession\obj\Debug\net8.0\LiveCodingSession.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\LiveCodingSession\bin\Debug\net8.0\LiveCodingSession.exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\LiveCodingSession\bin\Debug\net8.0\LiveCodingSession.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\LiveCodingSession\bin\Debug\net8.0\LiveCodingSession.runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\LiveCodingSession\bin\Debug\net8.0\LiveCodingSession.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\LiveCodingSession\bin\Debug\net8.0\LiveCodingSession.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\LiveCodingSession\obj\Debug\net8.0\LiveCodingSession.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\LiveCodingSession\obj\Debug\net8.0\refint\LiveCodingSession.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\LiveCodingSession\obj\Debug\net8.0\LiveCodingSession.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\LiveCodingSession\obj\Debug\net8.0\LiveCodingSession.genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\LiveCodingSession\obj\Debug\net8.0\ref\LiveCodingSession.dll

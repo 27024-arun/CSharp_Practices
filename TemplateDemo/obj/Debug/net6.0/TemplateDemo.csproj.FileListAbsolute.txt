@@ -1,0 +1,11 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TemplateDemo\bin\Debug\net6.0\TemplateDemo.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TemplateDemo\bin\Debug\net6.0\TemplateDemo.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TemplateDemo\bin\Debug\net6.0\TemplateDemo.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TemplateDemo\obj\Debug\net6.0\TemplateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TemplateDemo\obj\Debug\net6.0\TemplateDemo.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TemplateDemo\obj\Debug\net6.0\TemplateDemo.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TemplateDemo\obj\Debug\net6.0\TemplateDemo.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TemplateDemo\obj\Debug\net6.0\TemplateDemo.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TemplateDemo\obj\Debug\net6.0\refint\TemplateDemo.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TemplateDemo\obj\Debug\net6.0\TemplateDemo.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TemplateDemo\obj\Debug\net6.0\ref\TemplateDemo.dll

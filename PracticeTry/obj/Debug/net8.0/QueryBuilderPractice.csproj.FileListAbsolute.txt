@@ -1,0 +1,4 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\obj\Debug\net8.0\QueryBuilderPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\obj\Debug\net8.0\QueryBuilderPractice.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\obj\Debug\net8.0\QueryBuilderPractice.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeTry\obj\Debug\net8.0\QueryBuilderPractice.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ExtensionMethods\obj\Debug\net8.0\refint\ExtensionMethods.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ExtensionMethods\obj\Debug\net8.0\ref\ExtensionMethods.dll

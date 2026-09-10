@@ -1,0 +1,14 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\MockAssessment\bin\Debug\net6.0\MockAssessment.exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\MockAssessment\bin\Debug\net6.0\MockAssessment.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\MockAssessment\bin\Debug\net6.0\MockAssessment.runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\MockAssessment\bin\Debug\net6.0\MockAssessment.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\MockAssessment\bin\Debug\net6.0\MockAssessment.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\MockAssessment\obj\Debug\net6.0\MockAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\MockAssessment\obj\Debug\net6.0\MockAssessment.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\MockAssessment\obj\Debug\net6.0\MockAssessment.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\MockAssessment\obj\Debug\net6.0\MockAssessment.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\MockAssessment\obj\Debug\net6.0\MockAssessment.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\MockAssessment\obj\Debug\net6.0\refint\MockAssessment.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\MockAssessment\obj\Debug\net6.0\MockAssessment.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\MockAssessment\obj\Debug\net6.0\MockAssessment.genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\MockAssessment\obj\Debug\net6.0\ref\MockAssessment.dll

@@ -1,0 +1,14 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ReflectionPractice\bin\Debug\net6.0\ReflectionPractice.exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ReflectionPractice\bin\Debug\net6.0\ReflectionPractice.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ReflectionPractice\bin\Debug\net6.0\ReflectionPractice.runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ReflectionPractice\bin\Debug\net6.0\ReflectionPractice.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ReflectionPractice\bin\Debug\net6.0\ReflectionPractice.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ReflectionPractice\obj\Debug\net6.0\ReflectionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ReflectionPractice\obj\Debug\net6.0\ReflectionPractice.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ReflectionPractice\obj\Debug\net6.0\ReflectionPractice.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ReflectionPractice\obj\Debug\net6.0\ReflectionPractice.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ReflectionPractice\obj\Debug\net6.0\ReflectionPractice.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ReflectionPractice\obj\Debug\net6.0\refint\ReflectionPractice.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ReflectionPractice\obj\Debug\net6.0\ReflectionPractice.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ReflectionPractice\obj\Debug\net6.0\ReflectionPractice.genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ReflectionPractice\obj\Debug\net6.0\ref\ReflectionPractice.dll

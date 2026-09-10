@@ -1,0 +1,14 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\bin\Debug\net8.0\DelegatesEvents.exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\bin\Debug\net8.0\DelegatesEvents.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\bin\Debug\net8.0\DelegatesEvents.runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\bin\Debug\net8.0\DelegatesEvents.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\bin\Debug\net8.0\DelegatesEvents.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\DelegatesEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\DelegatesEvents.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\DelegatesEvents.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\DelegatesEvents.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\DelegatesEvents.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\refint\DelegatesEvents.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\DelegatesEvents.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\DelegatesEvents.genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\ref\DelegatesEvents.dll

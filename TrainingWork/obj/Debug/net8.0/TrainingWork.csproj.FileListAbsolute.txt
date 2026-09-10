@@ -1,0 +1,14 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TrainingWork\bin\Debug\net8.0\TrainingWork.exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TrainingWork\bin\Debug\net8.0\TrainingWork.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TrainingWork\bin\Debug\net8.0\TrainingWork.runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TrainingWork\bin\Debug\net8.0\TrainingWork.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TrainingWork\bin\Debug\net8.0\TrainingWork.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TrainingWork\obj\Debug\net8.0\TrainingWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TrainingWork\obj\Debug\net8.0\TrainingWork.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TrainingWork\obj\Debug\net8.0\TrainingWork.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TrainingWork\obj\Debug\net8.0\TrainingWork.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TrainingWork\obj\Debug\net8.0\TrainingWork.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TrainingWork\obj\Debug\net8.0\refint\TrainingWork.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TrainingWork\obj\Debug\net8.0\TrainingWork.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TrainingWork\obj\Debug\net8.0\TrainingWork.genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TrainingWork\obj\Debug\net8.0\ref\TrainingWork.dll

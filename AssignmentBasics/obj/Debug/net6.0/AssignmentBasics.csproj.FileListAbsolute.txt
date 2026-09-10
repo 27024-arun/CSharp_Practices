@@ -1,0 +1,14 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\AssignmentBasics\bin\Debug\net6.0\AssignmentBasics.exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\AssignmentBasics\bin\Debug\net6.0\AssignmentBasics.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\AssignmentBasics\bin\Debug\net6.0\AssignmentBasics.runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\AssignmentBasics\bin\Debug\net6.0\AssignmentBasics.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\AssignmentBasics\bin\Debug\net6.0\AssignmentBasics.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\AssignmentBasics\obj\Debug\net6.0\AssignmentBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\AssignmentBasics\obj\Debug\net6.0\AssignmentBasics.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\AssignmentBasics\obj\Debug\net6.0\AssignmentBasics.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\AssignmentBasics\obj\Debug\net6.0\AssignmentBasics.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\AssignmentBasics\obj\Debug\net6.0\AssignmentBasics.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\AssignmentBasics\obj\Debug\net6.0\refint\AssignmentBasics.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\AssignmentBasics\obj\Debug\net6.0\AssignmentBasics.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\AssignmentBasics\obj\Debug\net6.0\AssignmentBasics.genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\AssignmentBasics\obj\Debug\net6.0\ref\AssignmentBasics.dll

@@ -1,0 +1,14 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\bin\Debug\net8.0\GenericList.exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\bin\Debug\net8.0\GenericList.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\bin\Debug\net8.0\GenericList.runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\bin\Debug\net8.0\GenericList.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\bin\Debug\net8.0\GenericList.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\GenericList.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\GenericList.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\GenericList.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\GenericList.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\refint\GenericList.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\GenericList.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\GenericList.genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\GenericList\obj\Debug\net8.0\ref\GenericList.dll

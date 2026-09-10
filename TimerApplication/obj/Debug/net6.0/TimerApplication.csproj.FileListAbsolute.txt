@@ -1,0 +1,14 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TimerApplication\bin\Debug\net6.0\TimerApplication.exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TimerApplication\bin\Debug\net6.0\TimerApplication.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TimerApplication\bin\Debug\net6.0\TimerApplication.runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TimerApplication\bin\Debug\net6.0\TimerApplication.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TimerApplication\bin\Debug\net6.0\TimerApplication.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TimerApplication\obj\Debug\net6.0\TimerApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TimerApplication\obj\Debug\net6.0\TimerApplication.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TimerApplication\obj\Debug\net6.0\TimerApplication.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TimerApplication\obj\Debug\net6.0\TimerApplication.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TimerApplication\obj\Debug\net6.0\TimerApplication.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TimerApplication\obj\Debug\net6.0\refint\TimerApplication.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TimerApplication\obj\Debug\net6.0\TimerApplication.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TimerApplication\obj\Debug\net6.0\TimerApplication.genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\TimerApplication\obj\Debug\net6.0\ref\TimerApplication.dll

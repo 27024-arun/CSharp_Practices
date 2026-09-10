@@ -1,0 +1,14 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ArrayResizePractice\bin\Debug\net8.0\ArrayResizePractice.exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ArrayResizePractice\bin\Debug\net8.0\ArrayResizePractice.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ArrayResizePractice\bin\Debug\net8.0\ArrayResizePractice.runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ArrayResizePractice\bin\Debug\net8.0\ArrayResizePractice.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ArrayResizePractice\bin\Debug\net8.0\ArrayResizePractice.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ArrayResizePractice\obj\Debug\net8.0\ArrayResizePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ArrayResizePractice\obj\Debug\net8.0\ArrayResizePractice.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ArrayResizePractice\obj\Debug\net8.0\ArrayResizePractice.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ArrayResizePractice\obj\Debug\net8.0\ArrayResizePractice.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ArrayResizePractice\obj\Debug\net8.0\ArrayResizePractice.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ArrayResizePractice\obj\Debug\net8.0\refint\ArrayResizePractice.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ArrayResizePractice\obj\Debug\net8.0\ArrayResizePractice.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ArrayResizePractice\obj\Debug\net8.0\ArrayResizePractice.genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ArrayResizePractice\obj\Debug\net8.0\ref\ArrayResizePractice.dll

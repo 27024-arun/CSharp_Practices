@@ -1,0 +1,14 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadingSample\bin\Debug\net6.0\ThreadingSample.exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadingSample\bin\Debug\net6.0\ThreadingSample.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadingSample\bin\Debug\net6.0\ThreadingSample.runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadingSample\bin\Debug\net6.0\ThreadingSample.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadingSample\bin\Debug\net6.0\ThreadingSample.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadingSample\obj\Debug\net6.0\ThreadingSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadingSample\obj\Debug\net6.0\ThreadingSample.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadingSample\obj\Debug\net6.0\ThreadingSample.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadingSample\obj\Debug\net6.0\ThreadingSample.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadingSample\obj\Debug\net6.0\ThreadingSample.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadingSample\obj\Debug\net6.0\refint\ThreadingSample.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadingSample\obj\Debug\net6.0\ThreadingSample.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadingSample\obj\Debug\net6.0\ThreadingSample.genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\ThreadingSample\obj\Debug\net6.0\ref\ThreadingSample.dll

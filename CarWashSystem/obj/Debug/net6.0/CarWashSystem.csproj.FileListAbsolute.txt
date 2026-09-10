@@ -1,0 +1,14 @@
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\CarWashSystem\bin\Debug\net6.0\CarWashSystem.exe
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\CarWashSystem\bin\Debug\net6.0\CarWashSystem.deps.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\CarWashSystem\bin\Debug\net6.0\CarWashSystem.runtimeconfig.json
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\CarWashSystem\bin\Debug\net6.0\CarWashSystem.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\CarWashSystem\bin\Debug\net6.0\CarWashSystem.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\CarWashSystem\obj\Debug\net6.0\CarWashSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\CarWashSystem\obj\Debug\net6.0\CarWashSystem.AssemblyInfoInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\CarWashSystem\obj\Debug\net6.0\CarWashSystem.AssemblyInfo.cs
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\CarWashSystem\obj\Debug\net6.0\CarWashSystem.csproj.CoreCompileInputs.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\CarWashSystem\obj\Debug\net6.0\CarWashSystem.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\CarWashSystem\obj\Debug\net6.0\refint\CarWashSystem.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\CarWashSystem\obj\Debug\net6.0\CarWashSystem.pdb
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\CarWashSystem\obj\Debug\net6.0\CarWashSystem.genruntimeconfig.cache
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\CarWashSystem\obj\Debug\net6.0\ref\CarWashSystem.dll

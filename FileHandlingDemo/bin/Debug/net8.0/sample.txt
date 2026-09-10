@@ -1,0 +1,2 @@
+Hello, this is the first line of text.
+This is an appended line.
