@@ -11,7 +11,7 @@
         private int _threadCounter = 0;
 
         public bool IsRunning { get; private set; }
-
+        
         public bool Start(int threadCount)
         {
             if (IsRunning)
@@ -26,6 +26,7 @@
                 _threads.Add(thread);
                 thread.Start();
             }
+
             return true;
         }
 
