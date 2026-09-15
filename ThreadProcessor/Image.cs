@@ -15,7 +15,5 @@
                 return Convert.ToInt32((EndTime - StartTime).TotalMilliseconds);
             }
         }
-
-
     }
 }
