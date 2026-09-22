@@ -4,9 +4,7 @@
     {
         static void Main(string[] args)
         {
-            User? myUser = default;
-            Console.WriteLine(myUser.Name);
-            Console.WriteLine(myUser.Age);
+            Console.ReadKey();
         }
     }
 

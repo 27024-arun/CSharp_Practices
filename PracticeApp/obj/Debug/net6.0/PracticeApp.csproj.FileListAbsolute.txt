@@ -12,3 +12,4 @@ C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\obj\Debug\net6.0
 C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\obj\Debug\net6.0\PracticeApp.pdb
 C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\obj\Debug\net6.0\PracticeApp.genruntimeconfig.cache
 C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\obj\Debug\net6.0\ref\PracticeApp.dll
+C:\C# Assignments\Sessions\AssignmentBasicsSolution\PracticeApp\obj\Debug\net6.0\PracticeApp.sourcelink.json
