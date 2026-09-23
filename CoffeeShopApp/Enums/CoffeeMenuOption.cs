@@ -1,4 +1,4 @@
-﻿namespace CoffeeShopApp.Models
+﻿namespace CoffeeShopApp.Enums
 {
     internal enum CoffeeMenuOption
     {

@@ -1,4 +1,4 @@
-﻿using CoffeeShopApp.Models;
+﻿using CoffeeShopApp.Enums;
 using CoffeeShopApp.Services;
 using CoffeeShopApp.Views;
 

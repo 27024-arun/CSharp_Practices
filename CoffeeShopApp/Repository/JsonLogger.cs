@@ -18,14 +18,15 @@ namespace CoffeeShopApp.Repository
         {
             this._filePath = filePath;
         }
-        internal async Task LogAsync(int OrderID, string Action, string Message, int OrderId, int MachineId)
+
+        internal async Task LogAsync(int userId, string Action, string Message, int OrderId, int MachineId)
         {
             await _logSemaphoreSlim.WaitAsync();
             try
             {
                 List<LogEntry> _logData = await LoadAsync();
 
-                LogEntry newLog = new LogEntry(OrderId, Action, DateTime.Now, Message, OrderId, MachineId);
+                LogEntry newLog = new LogEntry(userId, Action, DateTime.Now, Message, OrderId, MachineId);
 
                 _logData.Add(newLog);
 

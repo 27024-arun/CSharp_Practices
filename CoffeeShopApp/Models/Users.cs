@@ -5,6 +5,7 @@
         public Users()
         {
         }
+
         public Users(int UserId, string UserName, string Password)
         {
             this.UserId = UserId;

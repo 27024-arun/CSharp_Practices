@@ -11,11 +11,13 @@ namespace CoffeeShopApp
         {
             UserRepository userRepository = new UserRepository("Users.json");
             JsonLogger jsonLogger = new JsonLogger("Log.json");
+            InventoryRepository inventoryRepository = new InventoryRepository();
 
             UserServices userServices = new UserServices(userRepository);
             NotificationService notificationService = new NotificationService();
             OrderServices orderServices = new OrderServices();
-            CoffeeServices coffeeServices = new CoffeeServices(notificationService, orderServices, jsonLogger);
+            InventoryService inventoryService = new InventoryService(inventoryRepository);
+            CoffeeServices coffeeServices = new CoffeeServices(notificationService, orderServices, jsonLogger, inventoryService);
 
             CoffeeView coffeeView = new CoffeeView(coffeeServices, notificationService);
             UserView userView = new UserView(coffeeView, userServices);
