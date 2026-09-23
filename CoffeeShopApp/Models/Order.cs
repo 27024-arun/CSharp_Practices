@@ -2,18 +2,17 @@
 {
     internal class Order
     {
-        public Order()
+        public Order(int Id, Coffee CoffeeOrdered, int UserId)
         {
-        }
-
-        public Order(int Id, Coffee CoffeeOrdered)
-        {
-            this.Id = Id;
+            this.OrderId = Id;
             this.CoffeeOrdered = CoffeeOrdered;
+            this.UserId = UserId;
         }
 
-        public int Id { get; set; }
+        public int OrderId { get; set; }
 
         public Coffee CoffeeOrdered { get; set; }
+
+        public int UserId { get; set; }
     }
 }

@@ -24,9 +24,9 @@ namespace CoffeeShopApp.Services
             this._logger = jsonLogger;
         }
 
-        internal async Task PrepareCoffee(int userChoice)
+        internal async Task PrepareCoffee(int userChoice, int currentUserId)
         {
-            Order? order = orderServices.FetchOrderDetails(userChoice);
+            Order? order = orderServices.FetchOrderDetails(userChoice, currentUserId);
             if (order == null)
             {
                 return;
@@ -40,27 +40,27 @@ namespace CoffeeShopApp.Services
             Machine? machine = null;
             try
             {
-                machine = GetFreeMachine(order.Id);
-                await _logger.LogAsync("MachineAssigned", $"Machine {machine.MachineId} assigned to Coffee {order.Id}", order.Id, machine.MachineId);
+                machine = GetFreeMachine(order.OrderId);
+                await _logger.LogAsync(order.OrderId, "MachineAssigned", $"Machine {machine.MachineId} assigned to Coffee {order.OrderId}", order.OrderId, machine.MachineId);
 
-                await _logger.LogAsync("SourcingStarted", $"Coffee {order.Id} sourcing started", order.Id, machine.MachineId);
-                notificationService.NotifyUser($"Coffee {order.Id} sourcing is started");
+                await _logger.LogAsync(order.OrderId, "SourcingStarted", $"Coffee {order.OrderId} sourcing started", order.OrderId, machine.MachineId);
+                notificationService.NotifyUser($"Coffee {order.OrderId} sourcing is started", order.UserId);
                 await Task.Delay(order.CoffeeOrdered.SourcingTime);
 
-                await _logger.LogAsync("PreparationStarted", $"Coffee {order.Id} preparation started", order.Id, machine.MachineId);
-                notificationService.NotifyUser($"Coffee {order.Id} preparation is started");
+                await _logger.LogAsync(order.OrderId, "PreparationStarted", $"Coffee {order.OrderId} preparation started", order.OrderId, machine.MachineId);
+                notificationService.NotifyUser($"Coffee {order.OrderId} preparation is started", order.UserId);
                 await Task.Delay(order.CoffeeOrdered.PreparationTime);
 
-                await _logger.LogAsync("CoffeeReady", $"Coffee {order.Id} is ready for delivery", order.Id, machine.MachineId);
-                notificationService.NotifyUser($"Coffee {order.Id} is ready for delivery");
+                await _logger.LogAsync(order.OrderId, "CoffeeReady", $"Coffee {order.OrderId} is ready for delivery", order.OrderId, machine.MachineId);
+                notificationService.NotifyUser($"Coffee {order.OrderId} is ready for delivery", order.UserId);
             }
             finally
             {
                 if (machine != null)
                 {
-                    notificationService.NotifyUser($"Machine {machine.MachineId} is now free");
+                    notificationService.NotifyUser($"Machine {machine.MachineId} is now free", order.UserId);
                     ReleaseMachine(machine);
-                    await _logger.LogAsync("MachineReleased", $"Machine {machine.MachineId} released after Coffee {order.Id}", order.Id, machine.MachineId);
+                    await _logger.LogAsync(order.OrderId, "MachineReleased", $"Machine {machine.MachineId} released after Coffee {order.OrderId}", order.OrderId, machine.MachineId);
                 }
                 semaphoreSlim.Release();
             }

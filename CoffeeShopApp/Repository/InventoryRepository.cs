@@ -1,6 +1,6 @@
 ﻿namespace CoffeeShopApp.Repository
 {
-    internal class OrderRepository
+    internal class InventoryRepository
     {
     }
 }
