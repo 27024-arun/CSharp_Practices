@@ -45,17 +45,17 @@ namespace CoffeeShopApp.Services
                 if (this.inventoryService.ReduceStock(order.CoffeeOrdered))
                 {
                     machine = GetFreeMachine(order.OrderId);
-                    await _logger.LogAsync(order.OrderId, "MachineAssigned", $"Machine {machine.MachineId} assigned to Coffee {order.OrderId}", order.UserId, machine.MachineId);
+                    await _logger.LogAsync(order.UserId, "MachineAssigned", $"Machine {machine.MachineId} assigned to Coffee {order.OrderId}", order.OrderId, machine.MachineId);
 
-                    await _logger.LogAsync(order.OrderId, "SourcingStarted", $"Coffee {order.OrderId} sourcing started", order.UserId, machine.MachineId);
+                    await _logger.LogAsync(order.UserId, "SourcingStarted", $"Coffee {order.OrderId} sourcing started", order.OrderId, machine.MachineId);
                     notificationService.NotifyUser($"Coffee {order.OrderId} sourcing is started", order.UserId);
                     await Task.Delay(order.CoffeeOrdered.SourcingTime);
 
-                    await _logger.LogAsync(order.OrderId, "PreparationStarted", $"Coffee {order.OrderId} preparation started", order.UserId, machine.MachineId);
+                    await _logger.LogAsync(order.UserId, "PreparationStarted", $"Coffee {order.OrderId} preparation started", order.OrderId, machine.MachineId);
                     notificationService.NotifyUser($"Coffee {order.OrderId} preparation is started", order.UserId);
                     await Task.Delay(order.CoffeeOrdered.PreparationTime);
 
-                    await _logger.LogAsync(order.OrderId, "CoffeeReady", $"Coffee {order.OrderId} is ready for delivery", order.UserId, machine.MachineId);
+                    await _logger.LogAsync(order.UserId, "CoffeeReady", $"Coffee {order.OrderId} is ready for delivery", order.OrderId, machine.MachineId);
                     notificationService.NotifyUser($"Coffee {order.OrderId} is ready for delivery", order.UserId);
                 }
                 else
@@ -69,7 +69,7 @@ namespace CoffeeShopApp.Services
                 {
                     notificationService.NotifyUser($"Machine {machine.MachineId} is now free", order.UserId);
                     ReleaseMachine(machine);
-                    await _logger.LogAsync(order.OrderId, "MachineReleased", $"Machine {machine.MachineId} released after Coffee {order.OrderId}", order.OrderId, machine.MachineId);
+                    await _logger.LogAsync(order.UserId, "MachineReleased", $"Machine {machine.MachineId} released after Coffee {order.OrderId}", order.OrderId, machine.MachineId);
                 }
                 semaphoreSlim.Release();
             }

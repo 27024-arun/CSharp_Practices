@@ -47,7 +47,7 @@ namespace CoffeeShopApp.Services
 
         private void RestockInventory()
         {
-            System.Timers.Timer timer = new System.Timers.Timer(TimeSpan.FromMinutes(5));
+            System.Timers.Timer timer = new System.Timers.Timer(TimeSpan.FromSeconds(60));
             timer.Elapsed += Restock;
             timer.Start();
         }
