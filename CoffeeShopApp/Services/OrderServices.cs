@@ -8,11 +8,12 @@ namespace CoffeeShopApp.Services
         private static int _orderId = 0;
         internal Order? FetchOrderDetails(int userChoice, int userId)
         {
-            switch(userChoice)
+            int currentOrderId = Interlocked.Increment(ref _orderId);
+            switch (userChoice)
             {
                 case 1:
                     return new Order(
-                        ++_orderId,
+                        currentOrderId,
                         new Coffee((CoffeeMenuOption)userChoice, System.TimeSpan.FromSeconds(3), System.TimeSpan.FromSeconds(2),
                         new List<IngredientRequired> 
                         {
@@ -25,7 +26,7 @@ namespace CoffeeShopApp.Services
                         userId);
                 case 2:
                     return new Order(
-                        ++_orderId, 
+                        currentOrderId, 
                         new Coffee((CoffeeMenuOption)userChoice, System.TimeSpan.FromSeconds(4), System.TimeSpan.FromSeconds(3),
                         new List<IngredientRequired>
                         {
@@ -38,7 +39,7 @@ namespace CoffeeShopApp.Services
                         userId);
                 case 3:
                     return new Order(
-                        ++_orderId, 
+                        currentOrderId, 
                         new Coffee((CoffeeMenuOption)userChoice, System.TimeSpan.FromSeconds(5), System.TimeSpan.FromSeconds(2),
                         new List<IngredientRequired>
                         {
@@ -51,7 +52,7 @@ namespace CoffeeShopApp.Services
                         userId);
                 case 4:
                     return new Order(
-                        ++_orderId, 
+                        currentOrderId, 
                         new Coffee((CoffeeMenuOption)userChoice, System.TimeSpan.FromSeconds(5), System.TimeSpan.FromSeconds(3),
                         new List<IngredientRequired>
                         {

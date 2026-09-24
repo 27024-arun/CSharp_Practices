@@ -11,7 +11,7 @@ namespace CoffeeShopApp
         {
             UserRepository userRepository = new UserRepository("Users.json");
             JsonLogger jsonLogger = new JsonLogger("Log.json");
-            InventoryRepository inventoryRepository = new InventoryRepository();
+            InventoryRepository inventoryRepository = new InventoryRepository("Inventory.json");
 
             UserServices userServices = new UserServices(userRepository);
             NotificationService notificationService = new NotificationService();

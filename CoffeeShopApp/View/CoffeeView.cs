@@ -38,7 +38,7 @@ namespace CoffeeShopApp.View
                 Console.Write($"Enter Choice: ");
                 int.TryParse(Console.ReadLine(), out int userChoice);
 
-                if (userChoice is (int)CoffeeMenuOption.Exit)
+                if (userChoice is (int)CoffeeMenuOption.Logout)
                 {
                     this._currentUserId = null;
                     Console.Clear();

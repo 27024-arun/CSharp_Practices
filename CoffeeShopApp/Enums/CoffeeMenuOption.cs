@@ -6,6 +6,6 @@
         Espresso,
         Latte,
         Mocha,
-        Exit,
+        Logout,
     }
 }
