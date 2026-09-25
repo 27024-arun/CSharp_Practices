@@ -1,7 +1,6 @@
 ﻿using CoffeeShopApp.Repository;
 using CoffeeShopApp.Services;
 using CoffeeShopApp.View;
-using CoffeeShopApp.Views;
 
 namespace CoffeeShopApp
 {
@@ -9,6 +8,8 @@ namespace CoffeeShopApp
     {
         static void Main(string[] args)
         {
+            Console.CancelKeyPress += (sender, e) => { e.Cancel = true; };
+
             UserRepository userRepository = new UserRepository("Users.json");
             JsonLogger jsonLogger = new JsonLogger("Log.json");
             InventoryRepository inventoryRepository = new InventoryRepository("Inventory.json");
@@ -22,7 +23,7 @@ namespace CoffeeShopApp
             CoffeeView coffeeView = new CoffeeView(coffeeServices, notificationService);
             UserView userView = new UserView(coffeeView, userServices);
 
-            while(true)
+            while (true)
             {
                 string userMenu = $@"
 ==================================
@@ -35,7 +36,7 @@ Enter Choice: ";
                 Console.Write(userMenu);
                 ConsoleKey userChoice = Console.ReadKey().Key;
                 Console.Clear();
-                switch(userChoice)
+                switch (userChoice)
                 {
                     case ConsoleKey.S:
                         userView.SignUp();

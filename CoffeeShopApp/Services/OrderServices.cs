@@ -15,7 +15,7 @@ namespace CoffeeShopApp.Services
                     return new Order(
                         currentOrderId,
                         new Coffee((CoffeeMenuOption)userChoice, System.TimeSpan.FromSeconds(3), System.TimeSpan.FromSeconds(2),
-                        new List<IngredientRequired> 
+                        new List<IngredientRequired>
                         {
                             new IngredientRequired(1, 50),
                             new IngredientRequired(2, 50),
@@ -26,7 +26,7 @@ namespace CoffeeShopApp.Services
                         userId);
                 case 2:
                     return new Order(
-                        currentOrderId, 
+                        currentOrderId,
                         new Coffee((CoffeeMenuOption)userChoice, System.TimeSpan.FromSeconds(4), System.TimeSpan.FromSeconds(3),
                         new List<IngredientRequired>
                         {
@@ -39,7 +39,7 @@ namespace CoffeeShopApp.Services
                         userId);
                 case 3:
                     return new Order(
-                        currentOrderId, 
+                        currentOrderId,
                         new Coffee((CoffeeMenuOption)userChoice, System.TimeSpan.FromSeconds(5), System.TimeSpan.FromSeconds(2),
                         new List<IngredientRequired>
                         {
@@ -52,7 +52,7 @@ namespace CoffeeShopApp.Services
                         userId);
                 case 4:
                     return new Order(
-                        currentOrderId, 
+                        currentOrderId,
                         new Coffee((CoffeeMenuOption)userChoice, System.TimeSpan.FromSeconds(5), System.TimeSpan.FromSeconds(3),
                         new List<IngredientRequired>
                         {

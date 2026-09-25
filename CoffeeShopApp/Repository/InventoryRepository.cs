@@ -1,7 +1,6 @@
 ﻿using System.Collections.Concurrent;
 using System.Text.Json;
 using System.Text.Json.Serialization;
-using CoffeeShopApp.Enums;
 using CoffeeShopApp.Models;
 
 namespace CoffeeShopApp.Repository
@@ -23,7 +22,7 @@ namespace CoffeeShopApp.Repository
         {
             this._filePath = filePath;
             this._inventoryItems = this.LoadAll();
-            if(this._inventoryItems.Count == 0)
+            if (this._inventoryItems.Count == 0)
             {
                 _inventoryItems.Add(new InventoryItems(1, "Milk", 1000, 1000));
                 _inventoryItems.Add(new InventoryItems(2, "Coffee Bean", 1000, 1000));

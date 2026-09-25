@@ -1,5 +1,4 @@
-﻿using System.Threading;
-using CoffeeShopApp.Models;
+﻿using CoffeeShopApp.Models;
 using CoffeeShopApp.Repository;
 
 namespace CoffeeShopApp.Services
@@ -61,7 +60,7 @@ namespace CoffeeShopApp.Services
                     await _logger.LogAsync(order.UserId, "CoffeeReady", $"Coffee {order.OrderId} is ready for delivery", order.OrderId, machine.MachineId);
                     notificationService.NotifyUser($"Coffee {order.OrderId} is ready for delivery", order.UserId);
                 }
-                else 
+                else
                 {
                     notificationService.NotifyUser($"Coffee {order.OrderId} is cancelled (Insufficient stock)", order.UserId);
                 }

@@ -1,6 +1,4 @@
-﻿using CoffeeShopApp.Enums;
-
-namespace CoffeeShopApp.Models
+﻿namespace CoffeeShopApp.Models
 {
     public class IngredientRequired
     {

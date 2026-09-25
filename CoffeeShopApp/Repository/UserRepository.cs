@@ -44,7 +44,7 @@ namespace CoffeeShopApp.Repository
 
         private List<Users> LoadAll()
         {
-            if(!File.Exists(this._filePath))
+            if (!File.Exists(this._filePath))
             {
                 return new List<Users>();
             }
