@@ -25,11 +25,12 @@ namespace CoffeeShopApp.View
 
         public void UserMenu(int userId)
         {
+            CancellationTokenSource cts = new CancellationTokenSource();
             while (true)
             {
                 Console.WriteLine($@"
 ==================================
-          Coffee Shop
+            Coffee Shop
 ==================================");
                 foreach (var userOptions in Enum.GetValues(typeof(CoffeeMenuOption)))
                 {
@@ -44,11 +45,19 @@ namespace CoffeeShopApp.View
                     Console.Clear();
                     return;
                 }
-                Task prepareCoffee = _coffeeServices.PrepareCoffee(userChoice, userId);
+                else if (userChoice == (int)CoffeeMenuOption.Cancel_orders)
+                {
+                    //Console.WriteLine("All orders have been cancelled.");
+                    continue;
+                }
+
+                Task task = _coffeeServices.PrepareCoffee(userChoice, userId, cts.Token);
             }
         }
+
         private void MessageNotifier(string message, int userId)
         {
+
             if (this._currentUserId == userId)
             {
                 ConsolePrinter.Notification($"{message}");

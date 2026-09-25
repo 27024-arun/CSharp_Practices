@@ -1,4 +1,5 @@
-﻿using CoffeeShopApp.Models;
+﻿using System.Threading;
+using CoffeeShopApp.Models;
 using CoffeeShopApp.Repository;
 
 namespace CoffeeShopApp.Services
@@ -26,8 +27,10 @@ namespace CoffeeShopApp.Services
             this.inventoryService = inventoryService;
         }
 
-        internal async Task PrepareCoffee(int userChoice, int currentUserId)
+        internal async Task PrepareCoffee(int userChoice, int currentUserId, CancellationToken cts)
         {
+            cts.ThrowIfCancellationRequested();
+
             Order? order = orderServices.FetchOrderDetails(userChoice, currentUserId);
             if (order == null)
             {
@@ -58,7 +61,7 @@ namespace CoffeeShopApp.Services
                     await _logger.LogAsync(order.UserId, "CoffeeReady", $"Coffee {order.OrderId} is ready for delivery", order.OrderId, machine.MachineId);
                     notificationService.NotifyUser($"Coffee {order.OrderId} is ready for delivery", order.UserId);
                 }
-                else
+                else 
                 {
                     notificationService.NotifyUser($"Coffee {order.OrderId} is cancelled (Insufficient stock)", order.UserId);
                 }
@@ -77,7 +80,7 @@ namespace CoffeeShopApp.Services
 
         private Machine GetFreeMachine(int orderId)
         {
-            Machine machine = machines.First(m => m.IsAvailable);
+            Machine machine = machines.First(m => m.IsAvailable == true);
 
             machine.IsAvailable = false;
             machine.OrderId = orderId;

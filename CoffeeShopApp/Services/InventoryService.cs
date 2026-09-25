@@ -25,7 +25,7 @@ namespace CoffeeShopApp.Services
             }
             return true;
         }
-
+           
         internal bool ReduceStock(Coffee coffeeOrdered)
         {
             lock (this)

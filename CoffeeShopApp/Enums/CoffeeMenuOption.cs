@@ -6,6 +6,7 @@
         Espresso,
         Latte,
         Mocha,
+        Cancel_orders,
         Logout,
     }
 }
